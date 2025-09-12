@@ -70,7 +70,7 @@ synthtiger -o ./outputs/SynthDoG_ur -c 10 -w 2 -v template.py SynthDoG config_ur
 - `-w`: Number of workers to use.
 - `config_ur.yaml`: Configuration file with dataset settings.
 
-For more detailed instructions on generating datasets and customizing configurations, check the [Complete Tutorial](#).
+For more detailed instructions on generating datasets and customizing configurations, check the [Complete Tutorial](https://www.aiviewz.com/posts/how-to-create-synthetic-dataset-for-donut-ocr-for-your-custom-language).
 
 ## **Customization Guide**
 
